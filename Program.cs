@@ -10,7 +10,7 @@
   }
   string[] arr = new string[count];
 
-   count = 0;
+  count = 0;
 
   for(int i = 0; i < ex1.Length; i++)
   {
@@ -32,4 +32,3 @@ for(int i = 0; i < result.Length; i++)
 {
     Console.WriteLine(result[i]);
 }
-
